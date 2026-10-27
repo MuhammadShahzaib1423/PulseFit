@@ -43,6 +43,7 @@ export default function Footer() {
         <div className="mx-auto flex max-w-7xl flex-col items-center justify-between gap-3 px-4 py-6 text-xs text-zinc-500 sm:flex-row sm:px-6 lg:px-8">
           <p>© {new Date().getFullYear()} PulseFit. All rights reserved.</p>
           <p>All trainer names and photography on this site are fictional.</p>
+          <p>Built by <a href="https://shahzaib-portfolio-muhammad-shahzaibs-projects-16858ef3.vercel.app" className="hover:text-volt-400">Muhammad Shahzaib</a></p>
         </div>
       </div>
     </footer>
